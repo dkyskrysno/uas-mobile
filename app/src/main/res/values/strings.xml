@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="motocycle_name">Motocycle</string>
+    <string name="img">img</string>
+    <string name="motocycle_desc">description</string>
+    <string name="keluar">logout</string>
+    <string name="motocycle_description">description</string>
+    <string-array name="data_name">
+        <item>Aprilia</item>
+        <item>Benelli</item>
+        <item>Ducati</item>
+        <item>Moto Guzzi</item>
+        <item>Harley Davidson</item>
+        <item>Honda</item>
+        <item>Husqvarna</item>
+        <item>Kawasaki</item>
+        <item>KTM</item>
+        <item>BMW Motorrad</item>
+        <item>Royal Enfield</item>
+        <item>Suzuki</item>
+        <item>Triumph</item>
+        <item>Vespa</item>
+        <item>Yamaha</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Aprilia, merek Italia, menonjolkan sepeda motor sport dengan kinerja tinggi, inovasi teknologi, dan desain yang estetis.</item>
+        <item>Benelli adalah merek sepeda motor asal Italia yang memiliki warisan panjang dalam industri sepeda motor. Merek ini dikenal dengan sepeda motor sport dan naked bike yang menarik perhatian dengan desain modern dan performa kelas atas.</item>
+        <item>Ducati, produsen sepeda motor asal Italia, terkenal karena sepeda motor sport dan super sport berkualitas tinggi dengan desain yang mengagumkan.</item>
+        <item>Moto Guzzi, merek Italia yang dimiliki oleh grup Piaggio, menonjolkan sepeda motor dengan mesin V-twin khas dan desain yang elegan.</item>
+        <item>Harley-Davidson adalah ikon dalam dunia sepeda motor kustom, terkenal dengan desain cruiser klasik dan suara khas mesin V-twin.</item>
+        <item>Honda, perusahaan otomotif asal Jepang, dikenal dengan sepeda motornya yang handal, efisien bahan bakar, dan populer di seluruh dunia.</item>
+        <item>Husqvarna, merek Swedia yang sekarang dimiliki oleh KTM, menghasilkan sepeda motor off-road dan motocross yang kuat dan ringan.</item>
+        <item>Kawasaki dikenal karena sepeda motor sport dan motor trail mereka yang bertenaga tinggi serta kecanggihan teknologi yang mereka bawa ke pasar.</item>
+        <item>KTM, merek Austria, terkenal dengan sepeda motor off-road dan enduro yang bertenaga tinggi serta performa luar biasa di lintasan.</item>
+        <item>BMW Motorrad, bagian dari grup BMW, menyajikan sepeda motor touring dan adventure premium dengan teknologi terkini dan gaya khas BMW.</item>
+        <item>Royal Enfield, merek India, terkenal dengan sepeda motor klasik berkarakter dan populer di seluruh dunia.</item>
+        <item>Suzuki, produsen asal Jepang, menawarkan sepeda motor yang dapat diandalkan dengan desain yang nyaman, baik untuk penggunaan sehari-hari maupun perjalanan jarak jauh.</item>
+        <item>Triumph, merek Inggris, dikenal dengan sepeda motor klasik, cruiser, dan adventure yang menyatukan gaya retro dengan teknologi modern.</item>
+        <item>Vespa, produsen Italia yang juga dikelola oleh grup Piaggio, dikenal sebagai ikon skuter klasik dengan desain elegan dan gaya yang unik.</item>
+        <item>Yamaha adalah produsen sepeda motor Jepang yang terkenal dengan berbagai model, dari sepeda motor sport hingga skuter, dengan fokus pada inovasi teknologi dan performa.</item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/aprilia</item>
+        <item>@drawable/benelli</item>
+        <item>@drawable/ducati</item>
+        <item>@drawable/guzzi</item>
+        <item>@drawable/harley</item>
+        <item>@drawable/honda</item>
+        <item>@drawable/husqvarna</item>
+        <item>@drawable/kawasaki</item>
+        <item>@drawable/ktm</item>
+        <item>@drawable/motorrad</item>
+        <item>@drawable/royal</item>
+        <item>@drawable/suzuki</item>
+        <item>@drawable/triumph</item>
+        <item>@drawable/vespa</item>
+        <item>@drawable/yamaha</item>
+    </integer-array>
+
+    <string-array name="data_sound">
+        <item>satu</item>
+        <item>dua</item>
+        <item>tiga</item>
+        <item>empat</item>
+        <item>lima</item>
+        <item>enam</item>
+        <item>tujuh</item>
+        <item>delapan</item>
+        <item>sembilan</item>
+        <item>sepuluh</item>
+        <item>sebelas</item>
+        <item>duabelas</item>
+        <item>tigabelas</item>
+        <item>empatbelas</item>
+        <item>limabelas</item>
+    </string-array>
+
+</resources>

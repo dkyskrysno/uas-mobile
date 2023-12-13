@@ -1,5 +1,5 @@
 // src/main/java/com.example.yourpackage/SplashActivity.kt
-package com.example.finaldicoding
+package com.example.uasdiky
 
 import android.content.Intent
 import android.os.Bundle

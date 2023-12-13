@@ -6,8 +6,8 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.finaldicoding.Motocycle
-import com.example.finaldicoding.R
+import com.example.uasdiky.Motocycle
+import com.example.uasdiky.R
 import android.view.animation.AnimationUtils;
 
 

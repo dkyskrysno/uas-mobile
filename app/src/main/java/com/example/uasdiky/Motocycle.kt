@@ -1,4 +1,4 @@
-package com.example.finaldicoding
+package com.example.uasdiky
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

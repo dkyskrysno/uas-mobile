@@ -1,4 +1,4 @@
-package com.example.finaldicoding
+package com.example.uasdiky
 
 import ListHeroAdapter
 import android.content.Intent
@@ -7,9 +7,8 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.DefaultItemAnimator
-import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.finaldicoding.databinding.ActivityMainBinding
+import com.example.uasdiky.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
@@ -58,7 +57,7 @@ class MainActivity : AppCompatActivity() {
 
         for (i in 0 until minSize) {
             val photoResourceId = if (i < dataPhoto.length()) dataPhoto.getResourceId(i, -1) else -1
-            val soundName = if (i < dataSoundNames.size) dataSoundNames[i] else "chicken"
+            val soundName = if (i < dataSoundNames.size) dataSoundNames[i] else "satu"
             val hero = Motocycle(dataName[i], dataDescription[i], photoResourceId, soundName)
             listHero.add(hero)
         }

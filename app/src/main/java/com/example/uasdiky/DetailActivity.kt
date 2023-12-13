@@ -1,9 +1,9 @@
-package com.example.finaldicoding
+package com.example.uasdiky
 
 import android.os.Bundle
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
-import com.example.finaldicoding.databinding.ActivityDetailBinding
+import com.example.uasdiky.databinding.ActivityDetailBinding
 
 class DetailActivity : AppCompatActivity() {
 
